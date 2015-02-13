@@ -6,6 +6,13 @@
 # Difficulty: easy.
 
 def reverse(string)
+  i= 0
+  for i...string.length
+  new_string =  ""
+  new_string.push(i)
+end
+return string
+  
 end
 
 # These are tests to check that your code is working. After writing
